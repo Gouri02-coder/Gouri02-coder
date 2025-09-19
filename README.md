@@ -1,6 +1,8 @@
 # 💫 About Me:
- I’m currently working on Placement Management System<br> I’m currently learning SpringBoot and Angular<br><br>
+🔭 I’m currently working on Placement Management System<br>🌱 I’m currently learning SpringBoot and Angular<br><br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gouri02-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gouri-mahala/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahalagouri05@gmail.com) 
