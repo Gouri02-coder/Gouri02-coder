@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Placement Management System<br>🌱 I’m currently learning SpringBoot and Angular<br><br>
+ I’m currently working on Placement Management System<br> I’m currently learning SpringBoot and Angular<br><br>
 
 
 ## 🌐 Socials:
